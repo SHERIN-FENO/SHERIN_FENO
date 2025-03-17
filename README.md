@@ -72,4 +72,4 @@ New features are created to capture nuanced aspects of employee performance and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/employee-departure-prediction.git
+   git clone https://github.com/SHERIN_FENO/Employee Departure Prediction using Machine Learning.ipynb
